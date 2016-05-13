@@ -1,0 +1,1 @@
+将此目录下所有文件复制到FreeSWITCH安装目录下的sounds目录下即可
